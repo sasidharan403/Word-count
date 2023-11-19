@@ -18,6 +18,7 @@ Anaconda - Python 3.7
 ### Step 6: Process count+=len(word)End loop
 
 ## PROGRAM:
+~~~
 #Developed by:-sasidharan
 #Reference number:-21004178
 count =0
@@ -26,7 +27,7 @@ for i in text:
 word = i.split()
 count+=len(word)
 print('The number of words in the file are :',count)
-
+~~~
 ### OUTPUT:
 ![output](1.png)
 
